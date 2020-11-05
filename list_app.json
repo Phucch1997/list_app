@@ -1,25 +1,23 @@
 [
 	{
-                                   "position":1,
+                "position":1,
 		"package_id":"com.vtool.photovideomaker.slideshow.videoeditor",
 		"app_name":"Slideshow - Music Video Editor",
 		"des":"Create awesome Slideshow for free",
 		"link_icon":"https://raw.githubusercontent.com/Phucch1997/list_app/main/unnamed.webp", 
 	}, 
 	{
-                                   "position":2,
+                "position":2,
 		"package_id":"com.vtool.slowmotion.fastmotion.video",
 		"app_name":"Slow motion - Speed up video",
 		"des":"You can freely create amazing videos very quickly",
 		"link_icon":"https://raw.githubusercontent.com/Phucch1997/list_app/main/unnamed%20(1).webp", 
 	}, 
 	{
-                                   "position":3,
+                "position":3,
 		"package_id":"com.eco.reverse.reversevideo",
 		"app_name":"Reverse Video - Rewind video & Loop video",
-		"des":"Download Reverse Video to make video reverse effect
-
-",
+		"des":"Download Reverse Video to make video reverse effect",
 		"link_icon":"https://raw.githubusercontent.com/Phucch1997/list_app/main/unnamed%20(2).webp", 
 	}
 ]
